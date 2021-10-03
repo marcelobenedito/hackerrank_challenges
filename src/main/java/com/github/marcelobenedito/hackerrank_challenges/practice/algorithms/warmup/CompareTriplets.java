@@ -15,7 +15,6 @@ public class CompareTriplets {
      *  1. INTEGER_ARRAY a
      *  2. INTEGER_ARRAY b
      */
-
     public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         int aliceScore = 0;
         int bobScore = 0;
